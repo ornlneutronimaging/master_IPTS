@@ -1,0 +1,9 @@
+[submodule "IPTS_17099"]
+	path = IPTS_17099
+	url = https://github.com/ornlneutronimaging/IPTS_17099.git
+[submodule "IPTS_16259"]
+	path = IPTS_16259
+	url = https://github.com/ornlneutronimaging/IPTS_16259.git
+[submodule "IPTS_14382"]
+	path = IPTS_14382
+	url = https://github.com/ornlneutronimaging/IPTS_14382.git
